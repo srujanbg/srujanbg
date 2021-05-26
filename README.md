@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Sruja bg
+
+I am a frontend developer
+
 <!--
 **srujanbg/srujanbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
