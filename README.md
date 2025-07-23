@@ -2,7 +2,7 @@
 
 I am Sruja bg
 
-I am a frontend developer
+I am a Application developer
 
 <!--
 **srujanbg/srujanbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
